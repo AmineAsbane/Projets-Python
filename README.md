@@ -30,3 +30,22 @@ Ce projet interroge l’API CoinMarketCap pour récupérer des données en temps
 - Pandas
 - Seaborn
 - Matplotlib
+
+# 3. Netflix Data Analysis and Insights
+
+Ce projet consiste à réaliser une analyse approfondie du catalogue Netflix en utilisant un jeu de données public. L'objectif est de découvrir des tendances, des insights intéressants et de les présenter sous une forme claire, visuelle et interactive.
+
+## Objectifs
+
+- Analyser la répartition des genres et des titres disponibles sur Netflix.
+- Étudier la distribution des films et séries par durée et année de sortie.
+- Découvrir les tendances des genres les plus populaires.
+- Visualiser les insights à l’aide de graphiques interactifs avec **Matplotlib** et **Seaborn**.
+
+## Technologies utilisées :
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
