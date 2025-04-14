@@ -48,4 +48,14 @@ Ce projet consiste à réaliser une analyse approfondie du catalogue Netflix en 
 - Pandas
 - Matplotlib
 - Seaborn
+  
+### 4. Prédiction du prix des maisons avec régession linéaire (Boston Housing Dataset)
+Ce projet applique un modèle de régression linéaire pour prédire le prix des maisons à Boston à partir de plusieurs caractéristiques (nombre de pièces, taux de criminalité, proximité aux axes, etc.).
 
+#### Technologies utilisées :
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn
