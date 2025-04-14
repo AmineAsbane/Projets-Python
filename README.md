@@ -59,3 +59,12 @@ Ce projet applique un modèle de régression linéaire pour prédire le prix des
 - Scikit-learn  
 - Matplotlib  
 - Seaborn
+- 
+### 5. **Système de gestion des pièces jointes d'emails pour le traitement de données**
+Ce projet utilise Python pour se connecter à une boîte email via IMAP, rechercher les mails non lus, télécharger les pièces jointes (en particulier des fichiers CSV), nettoyer ces fichiers et les enregistrer.
+
+#### Technologies utilisées :
+- Python
+- IMAP
+- Pandas
+- dotenv
